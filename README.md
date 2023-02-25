@@ -2,18 +2,15 @@
 
 <p>This is the part of <a href="mavenanalytics.io">mavenanalytics.io challenge</a></p>
 
------------
 Step 1 :
 -----------
 Import data from csv file to mysql database using python (open file Mexico_Toy_Sales.ipynb for details)
 
------------
 Step 2 :
 -----------
 Try to analyze data, for details read comment in file mexico_toy_sales.sql for each section of sql
 
------------
-Step 2 :
+Step 3 :
 -----------
 - After explore data in sql, I create data visualization in table for interactive dashboard. This is the dashboard i have created 
 
@@ -23,7 +20,7 @@ Step 2 :
 --------------------------------------------------------------------------------------------------------
 Thank you :)
 
-Linkedin : <a href=https://www.linkedin.com/in/elfridhasman/'>Follow me on linkedin</a>'
-Tableau Public : <a href=https://public.tableau.com/app/profile/elfridus.hasman>My Tableau Public</a>
-Email : <a href=mailto:elfridhasman@gmail.com>You can send me message on email</a>
+Linkedin : <a href='https://www.linkedin.com/in/elfridhasman/'>Follow me on linkedin</a>'
+Tableau Public : <a href='https://public.tableau.com/app/profile/elfridus.hasman'>My Tableau Public</a>
+Email : <a href='mailto:elfridhasman@gmail.com'>You can send me message on email</a>
 --------------------------------------------------------------------------------------------------------
