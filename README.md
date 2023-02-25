@@ -1,4 +1,4 @@
-<h1>-- Mexico Toy Sales -- </h1>
+<h1>Mexico Toy Sales</h1>
 
 <p>This is the part of <a href="mavenanalytics.io">mavenanalytics.io</a> challenge</p>
 
