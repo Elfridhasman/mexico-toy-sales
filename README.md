@@ -1,1 +1,1 @@
--- Mexico Toy Sales --
+<strong>Mexico Toy Sales</strong>
