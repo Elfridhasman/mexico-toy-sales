@@ -19,7 +19,7 @@ Step 3 :
 
 Thank you :)
 
-<p>Linkedin : <a href='https://www.linkedin.com/in/elfridhasman/'>Follow me on linkedin</a>'</p>
-<p>Tableau Public : <a href='https://public.tableau.com/app/profile/elfridus.hasman'>My Tableau Public</a></p>
-<p>Email : <a href='mailto:elfridhasman@gmail.com'>You can send me message on email</a></p>
+- Linkedin : <a href='https://www.linkedin.com/in/elfridhasman/'>Follow me on linkedin</a>
+- Tableau Public : <a href='https://public.tableau.com/app/profile/elfridus.hasman'>My Tableau Public</a>
+- Email : <a href='mailto:elfridhasman@gmail.com'>You can send me message on email</a>
 --------------------------------------------------------------------------------------------------------
